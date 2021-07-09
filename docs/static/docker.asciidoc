@@ -16,8 +16,8 @@ Elastic license levels.
 
 ==== Pulling the image
 
-Obtaining Logstash for Docker is as simple as issuing a +docker
-pull+ command against the Elastic Docker registry.
+Obtaining Logstash for Docker is as simple as issuing a +docker pull+ 
+command against the Elastic Docker registry.
 
 ifeval::["{release-state}"=="unreleased"]
 
